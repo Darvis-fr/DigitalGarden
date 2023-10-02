@@ -4,7 +4,7 @@ dg-home: true
 dg-publish: true
 share: true
 --- 
-/uplo
+
 
 Voici un début pour mon Digital Garden. 
 
