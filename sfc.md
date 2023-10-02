@@ -7,7 +7,7 @@ share: true
 SFC est un outil Windows (fourni à l'installation du système) qui permet d'analyse la configuration du système et de détecter des erreurs. 
 
 Quand j'ai un problème sur un poste, c'est la première commande que je lance. 
-/git
+
 Son utilisation basic est : 
 ```batch
 sfc /scannow
@@ -39,3 +39,6 @@ sfc /scannow
 ```
 
 Il est aussi utile de regarder dans l'observateur d'évènement. 
+
+[Home Digital Garden](./Home%20Digital%20Garden.md)
+/pub
