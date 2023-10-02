@@ -5,4 +5,4 @@ share: true
 --- 
 L'outil magique de Windows [sfc](./sfc.md) qui a remplacer format c: (pour ceux qui ont connu Windows 3.1, 95, 98, etc.)
 
-/git
+
